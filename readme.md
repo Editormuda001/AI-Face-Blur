@@ -20,7 +20,7 @@ wget https://github.com/Editormuda001/AI-Face-Blur
 
 2.unzip file dengan perintah:
 ```
-unzip AI-Face-Blur
+unzip AI-Face-Blur.zip
 ```
 
 3. Berikan izin eksekusi pada file `run_server.sh`:
