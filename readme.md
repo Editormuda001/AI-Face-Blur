@@ -10,27 +10,32 @@ Harus Mempunyai:
 ## Instalasi dan Penggunaan
 
 1. Clone repositori ini atau buat folder baru untuk proyek. dengan kode di terminal:
->```
+```
 git clone https://github.com/Editormuda001/AI-Face-Blur
 ```
 Atau
->```
+```
 wget https://github.com/Editormuda001/AI-Face-Blur
 ```
 
-2. Berikan izin eksekusi pada file `run_server.sh`:
+2.unzip file dengan perintah:
+```
+unzip AI-Face-Blur
+```
+
+3. Berikan izin eksekusi pada file `run_server.sh`:
 
 ```
 chmod +x run_server.sh
 ```
 
-3. Jalankan script dengan perintah:
+4. Jalankan script dengan perintah:
 
 ```
 ./run_server.sh
 ```
 
-4. Buka browser dan akses `http://localhost:3000`.
+5. Buka browser dan akses `http://localhost:3000`.
 
 ## Catatan
 
@@ -44,7 +49,5 @@ chmod +x run_server.sh
   ```
 - Jika Anda ingin menambahkan package lain, tambahkan ke dalam file `requirements.txt`.
 - Kode ini adalah contoh dasar dan mungkin memerlukan penyesuaian untuk penggunaan dalam produksi.
-
-```
 
 Readme ini mencakup semua informasi yang diperlukan untuk mengatur dan menjalankan aplikasi, termasuk kode server, HTML, script bash, dan instruksi penggunaan. Pengguna dapat mengikuti langkah-langkah ini untuk mengimplementasikan dan menjalankan aplikasi face blurring.
