@@ -10,9 +10,13 @@ Harus Mempunyai:
 ## Instalasi dan Penggunaan
 
 1. Clone repositori ini atau buat folder baru untuk proyek. dengan kode di terminal:
->```git clone https://github.com/Editormuda001/AI-Face-Blur```
+>```
+git clone https://github.com/Editormuda001/AI-Face-Blur
+```
 Atau
->```wget https://github.com/Editormuda001/AI-Face-Blur```
+>```
+wget https://github.com/Editormuda001/AI-Face-Blur
+```
 
 2. Berikan izin eksekusi pada file `run_server.sh`:
 
